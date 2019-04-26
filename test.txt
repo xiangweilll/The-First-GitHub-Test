@@ -1,3 +1,4 @@
 test content
 dev add content
 the master add content
+the new dev add content
